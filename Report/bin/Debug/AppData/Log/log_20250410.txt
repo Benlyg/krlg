@@ -1,0 +1,180 @@
+
+Log Entry : 17:00:01 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:00:01
+-------------------------------
+
+Log Entry : 17:00:01 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:00:01 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:01:14 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:01:14
+-------------------------------
+
+Log Entry : 17:01:14 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:01:14 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:03:32 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:03:32
+-------------------------------
+
+Log Entry : 17:03:32 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:03:32 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:08:31 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:08:31
+-------------------------------
+
+Log Entry : 17:08:31 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:08:31 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:12:40 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:12:40
+-------------------------------
+
+Log Entry : 17:12:40 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:12:40 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\rptPrintLabel.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:12:48 Thursday, April 10, 2025
+  :
+  :print
+-------------------------------
+
+Log Entry : 17:12:50 Thursday, April 10, 2025
+  :
+  :print
+-------------------------------
+
+Log Entry : 17:12:50 Thursday, April 10, 2025
+  :
+  :app stop 2025-04-10 17:12:50
+-------------------------------
+
+Log Entry : 17:13:27 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:13:27
+-------------------------------
+
+Log Entry : 17:13:27 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:13:27 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:15:19 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:15:19
+-------------------------------
+
+Log Entry : 17:15:19 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:15:19 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:16:11 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:16:11
+-------------------------------
+
+Log Entry : 17:16:11 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:16:11 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:17:03 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:17:03
+-------------------------------
+
+Log Entry : 17:17:03 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:17:03 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:18:24 Thursday, April 10, 2025
+  :
+  :app start 2025-04-10 17:18:24
+-------------------------------
+
+Log Entry : 17:18:24 Thursday, April 10, 2025
+  :
+  :args.Length == 3
+-------------------------------
+
+Log Entry : 17:18:24 Thursday, April 10, 2025
+  :
+  :pathjson = C:\Users\RSannita\Desktop\S_SANG_PrintLabel20240527173233921.json , pathRDLC = D:\Rattapol Gitlab\rdlc_label\Report\Report\Report\Report1.rdlc , printName = Microsoft Print to PDF
+-------------------------------
+
+Log Entry : 17:18:35 Thursday, April 10, 2025
+  :
+  :print
+-------------------------------
+
+Log Entry : 17:18:48 Thursday, April 10, 2025
+  :
+  :print
+-------------------------------
+
+Log Entry : 17:18:48 Thursday, April 10, 2025
+  :
+  :app stop 2025-04-10 17:18:48
+-------------------------------

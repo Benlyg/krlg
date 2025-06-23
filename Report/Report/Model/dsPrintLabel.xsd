@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPrintLabel" targetNamespace="http://tempuri.org/dsPrintLabel.xsd" xmlns:mstns="http://tempuri.org/dsPrintLabel.xsd" xmlns="http://tempuri.org/dsPrintLabel.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPrintLabel" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPrintLabel" msprop:Generator_UserDSName="dsPrintLabel">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtPrintLabel" msprop:Generator_TableClassName="dtPrintLabelDataTable" msprop:Generator_TableVarName="tabledtPrintLabel" msprop:Generator_TablePropName="dtPrintLabel" msprop:Generator_RowDeletingName="dtPrintLabelRowDeleting" msprop:Generator_RowChangingName="dtPrintLabelRowChanging" msprop:Generator_RowEvHandlerName="dtPrintLabelRowChangeEventHandler" msprop:Generator_RowDeletedName="dtPrintLabelRowDeleted" msprop:Generator_UserTableName="dtPrintLabel" msprop:Generator_RowChangedName="dtPrintLabelRowChanged" msprop:Generator_RowEvArgName="dtPrintLabelRowChangeEvent" msprop:Generator_RowClassName="dtPrintLabelRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Release_key" msprop:Generator_ColumnVarNameInTable="columnRelease_key" msprop:Generator_ColumnPropNameInRow="Release_key" msprop:Generator_ColumnPropNameInTable="Release_keyColumn" msprop:Generator_UserColumnName="Release_key" type="xs:string" minOccurs="0" />
+              <xs:element name="Storer_Id" msprop:Generator_ColumnVarNameInTable="columnStorer_Id" msprop:Generator_ColumnPropNameInRow="Storer_Id" msprop:Generator_ColumnPropNameInTable="Storer_IdColumn" msprop:Generator_UserColumnName="Storer_Id" type="xs:string" minOccurs="0" />
+              <xs:element name="inv_ref" msprop:Generator_ColumnVarNameInTable="columninv_ref" msprop:Generator_ColumnPropNameInRow="inv_ref" msprop:Generator_ColumnPropNameInTable="inv_refColumn" msprop:Generator_UserColumnName="inv_ref" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Address1" msprop:Generator_ColumnVarNameInTable="columnSt_Address1" msprop:Generator_ColumnPropNameInRow="St_Address1" msprop:Generator_ColumnPropNameInTable="St_Address1Column" msprop:Generator_UserColumnName="St_Address1" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Address2" msprop:Generator_ColumnVarNameInTable="columnSt_Address2" msprop:Generator_ColumnPropNameInRow="St_Address2" msprop:Generator_ColumnPropNameInTable="St_Address2Column" msprop:Generator_UserColumnName="St_Address2" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Address3" msprop:Generator_ColumnVarNameInTable="columnSt_Address3" msprop:Generator_ColumnPropNameInRow="St_Address3" msprop:Generator_ColumnPropNameInTable="St_Address3Column" msprop:Generator_UserColumnName="St_Address3" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Address4" msprop:Generator_ColumnVarNameInTable="columnSt_Address4" msprop:Generator_ColumnPropNameInRow="St_Address4" msprop:Generator_ColumnPropNameInTable="St_Address4Column" msprop:Generator_UserColumnName="St_Address4" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Zip" msprop:Generator_ColumnVarNameInTable="columnSt_Zip" msprop:Generator_ColumnPropNameInRow="St_Zip" msprop:Generator_ColumnPropNameInTable="St_ZipColumn" msprop:Generator_UserColumnName="St_Zip" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Contact_Name" msprop:Generator_ColumnVarNameInTable="columnSt_Contact_Name" msprop:Generator_ColumnPropNameInRow="St_Contact_Name" msprop:Generator_ColumnPropNameInTable="St_Contact_NameColumn" msprop:Generator_UserColumnName="St_Contact_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="St_Contact_Phone" msprop:Generator_ColumnVarNameInTable="columnSt_Contact_Phone" msprop:Generator_ColumnPropNameInRow="St_Contact_Phone" msprop:Generator_ColumnPropNameInTable="St_Contact_PhoneColumn" msprop:Generator_UserColumnName="St_Contact_Phone" type="xs:string" minOccurs="0" />
+              <xs:element name="sku" msprop:Generator_ColumnVarNameInTable="columnsku" msprop:Generator_ColumnPropNameInRow="sku" msprop:Generator_ColumnPropNameInTable="skuColumn" msprop:Generator_UserColumnName="sku" type="xs:string" minOccurs="0" />
+              <xs:element name="serial_no" msprop:Generator_ColumnVarNameInTable="columnserial_no" msprop:Generator_ColumnPropNameInRow="serial_no" msprop:Generator_ColumnPropNameInTable="serial_noColumn" msprop:Generator_UserColumnName="serial_no" type="xs:string" minOccurs="0" />
+              <xs:element name="tacking_code" msprop:Generator_ColumnVarNameInTable="columntacking_code" msprop:Generator_ColumnPropNameInRow="tacking_code" msprop:Generator_ColumnPropNameInTable="tacking_codeColumn" msprop:Generator_UserColumnName="tacking_code" type="xs:string" minOccurs="0" />
+              <xs:element name="user_defined_16" msprop:Generator_ColumnVarNameInTable="columnuser_defined_16" msprop:Generator_ColumnPropNameInRow="user_defined_16" msprop:Generator_ColumnPropNameInTable="user_defined_16Column" msprop:Generator_UserColumnName="user_defined_16" type="xs:string" minOccurs="0" />
+              <xs:element name="Qty" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnPropNameInTable="QtyColumn" msprop:Generator_UserColumnName="Qty" type="xs:string" minOccurs="0" />
+              <xs:element name="barcode" msprop:Generator_ColumnVarNameInTable="columnbarcode" msprop:Generator_ColumnPropNameInRow="barcode" msprop:Generator_ColumnPropNameInTable="barcodeColumn" msprop:Generator_UserColumnName="barcode" type="xs:string" minOccurs="0" />
+              <xs:element name="hub_code" msprop:Generator_ColumnVarNameInTable="columnhub_code" msprop:Generator_ColumnPropNameInRow="hub_code" msprop:Generator_ColumnPropNameInTable="hub_codeColumn" msprop:Generator_UserColumnName="hub_code" type="xs:string" minOccurs="0" />
+              <xs:element name="Path_Pdf" msprop:Generator_ColumnVarNameInTable="columnPath_Pdf" msprop:Generator_ColumnPropNameInRow="Path_Pdf" msprop:Generator_ColumnPropNameInTable="Path_PdfColumn" msprop:Generator_UserColumnName="Path_Pdf" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

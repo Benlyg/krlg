@@ -1,0 +1,552 @@
+C:\work\Report\Report\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\work\Report\Report\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\work\Report\Report\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\work\Report\Report\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\work\Report\Report\bin\Debug\Report\rptPrintLabel.rdlc
+C:\work\Report\Report\bin\Debug\Report.exe.config
+C:\work\Report\Report\bin\Debug\Report.exe
+C:\work\Report\Report\bin\Debug\Report.pdb
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\work\Report\Report\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\work\Report\Report\bin\Debug\Newtonsoft.Json.dll
+C:\work\Report\Report\bin\Debug\PdfSharp.Charting.dll
+C:\work\Report\Report\bin\Debug\PdfSharp.dll
+C:\work\Report\Report\bin\Debug\zxing.dll
+C:\work\Report\Report\bin\Debug\zxing.presentation.dll
+C:\work\Report\Report\bin\Debug\EnvDTE.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\work\Report\Report\bin\Debug\Microsoft.Build.Framework.dll
+C:\work\Report\Report\bin\Debug\stdole.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\work\Report\Report\bin\Debug\EnvDTE80.dll
+C:\work\Report\Report\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\work\Report\Report\bin\Debug\VSLangProj.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\work\Report\Report\bin\Debug\VSLangProj80.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\work\Report\Report\bin\Debug\Microsoft.MSXML.dll
+C:\work\Report\Report\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\work\Report\Report\bin\Debug\VSLangProj2.dll
+C:\work\Report\Report\bin\Debug\Newtonsoft.Json.xml
+C:\work\Report\Report\bin\Debug\PdfSharp.xml
+C:\work\Report\Report\bin\Debug\PdfSharp.Charting.xml
+C:\work\Report\Report\bin\Debug\zxing.xml
+C:\work\Report\Report\bin\Debug\zxing.presentation.xml
+C:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\work\Report\Report\bin\Debug\de\PdfSharp.resources.dll
+C:\work\Report\Report\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\work\Report\Report\obj\Debug\Report.exe.config
+C:\work\Report\Report\obj\Debug\Report.Form1.resources
+C:\work\Report\Report\obj\Debug\Report.Properties.Resources.resources
+C:\work\Report\Report\obj\Debug\Report.csproj.GenerateResource.cache
+C:\work\Report\Report\obj\Debug\RdlCompile.cache
+C:\work\Report\Report\obj\Debug\RdlCompile.compiled
+C:\work\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+C:\work\Report\Report\obj\Debug\Report.csproj.CopyComplete
+C:\work\Report\Report\obj\Debug\Report.exe
+C:\work\Report\Report\obj\Debug\Report.pdb
+C:\work\Report\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+D:\work\Report\Report\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\work\Report\Report\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\work\Report\Report\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\work\Report\Report\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\work\Report\Report\bin\Debug\Report\rptPrintLabel.rdlc
+D:\work\Report\Report\bin\Debug\Report.exe.config
+D:\work\Report\Report\bin\Debug\Report.exe
+D:\work\Report\Report\bin\Debug\Report.pdb
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\work\Report\Report\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\work\Report\Report\bin\Debug\Newtonsoft.Json.dll
+D:\work\Report\Report\bin\Debug\PdfSharp.Charting.dll
+D:\work\Report\Report\bin\Debug\PdfSharp.dll
+D:\work\Report\Report\bin\Debug\zxing.dll
+D:\work\Report\Report\bin\Debug\zxing.presentation.dll
+D:\work\Report\Report\bin\Debug\EnvDTE.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\work\Report\Report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\work\Report\Report\bin\Debug\Microsoft.Build.Framework.dll
+D:\work\Report\Report\bin\Debug\stdole.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\work\Report\Report\bin\Debug\EnvDTE80.dll
+D:\work\Report\Report\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\work\Report\Report\bin\Debug\VSLangProj.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\work\Report\Report\bin\Debug\VSLangProj80.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\work\Report\Report\bin\Debug\Microsoft.MSXML.dll
+D:\work\Report\Report\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\work\Report\Report\bin\Debug\VSLangProj2.dll
+D:\work\Report\Report\bin\Debug\Newtonsoft.Json.xml
+D:\work\Report\Report\bin\Debug\PdfSharp.xml
+D:\work\Report\Report\bin\Debug\PdfSharp.Charting.xml
+D:\work\Report\Report\bin\Debug\zxing.xml
+D:\work\Report\Report\bin\Debug\zxing.presentation.xml
+D:\work\Report\Report\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\work\Report\Report\bin\Debug\de\PdfSharp.resources.dll
+D:\work\Report\Report\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\work\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\work\Report\Report\obj\Debug\Report.exe.config
+D:\work\Report\Report\obj\Debug\Report.Form1.resources
+D:\work\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\work\Report\Report\obj\Debug\Report.csproj.GenerateResource.cache
+D:\work\Report\Report\obj\Debug\RdlCompile.cache
+D:\work\Report\Report\obj\Debug\RdlCompile.compiled
+D:\work\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\work\Report\Report\obj\Debug\Report.csproj.CopyComplete
+D:\work\Report\Report\obj\Debug\Report.exe
+D:\work\Report\Report\obj\Debug\Report.pdb
+D:\work\Report\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+D:\work\Report\Report\bin\Debug\Report\rptPrintLabelselectic.rdlc
+D:\work\Report\Report\bin\Debug\Report\rptPrintLabelTP.rdlc
+D:\work\Report\Report\bin\Debug\EPPlus.dll
+D:\work\Report\Report\bin\Debug\EPPlus.Interfaces.dll
+D:\work\Report\Report\bin\Debug\EPPlus.System.Drawing.dll
+D:\work\Report\Report\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\work\Report\Report\bin\Debug\System.Buffers.dll
+D:\work\Report\Report\bin\Debug\System.ComponentModel.Annotations.dll
+D:\work\Report\Report\bin\Debug\System.Memory.dll
+D:\work\Report\Report\bin\Debug\System.Numerics.Vectors.dll
+D:\work\Report\Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Report\Report\bin\Debug\EPPlus.xml
+D:\work\Report\Report\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\work\Report\Report\bin\Debug\System.Buffers.xml
+D:\work\Report\Report\bin\Debug\System.Memory.xml
+D:\work\Report\Report\bin\Debug\System.Numerics.Vectors.xml
+D:\work\Report\Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source code\Develop\Report\Report\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\source code\Develop\Report\Report\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\source code\Develop\Report\Report\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\source code\Develop\Report\Report\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\source code\Develop\Report\Report\bin\Debug\Report\rptPrintLabelFZ_Receive.rdlc
+D:\source code\Develop\Report\Report\bin\Debug\Report\rptPrintLabelTP.rdlc
+D:\source code\Develop\Report\Report\bin\Debug\Report\rptPrintLabel.rdlc
+D:\source code\Develop\Report\Report\bin\Debug\Report\rptPrintLabelselectic.rdlc
+D:\source code\Develop\Report\Report\bin\Debug\Report.exe.config
+D:\source code\Develop\Report\Report\bin\Debug\Report.exe
+D:\source code\Develop\Report\Report\bin\Debug\Report.pdb
+D:\source code\Develop\Report\Report\bin\Debug\EPPlus.dll
+D:\source code\Develop\Report\Report\bin\Debug\EPPlus.Interfaces.dll
+D:\source code\Develop\Report\Report\bin\Debug\EPPlus.System.Drawing.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\source code\Develop\Report\Report\bin\Debug\Newtonsoft.Json.dll
+D:\source code\Develop\Report\Report\bin\Debug\PdfSharp.Charting.dll
+D:\source code\Develop\Report\Report\bin\Debug\PdfSharp.dll
+D:\source code\Develop\Report\Report\bin\Debug\System.Buffers.dll
+D:\source code\Develop\Report\Report\bin\Debug\System.ComponentModel.Annotations.dll
+D:\source code\Develop\Report\Report\bin\Debug\System.Memory.dll
+D:\source code\Develop\Report\Report\bin\Debug\System.Numerics.Vectors.dll
+D:\source code\Develop\Report\Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\source code\Develop\Report\Report\bin\Debug\zxing.dll
+D:\source code\Develop\Report\Report\bin\Debug\zxing.presentation.dll
+D:\source code\Develop\Report\Report\bin\Debug\EnvDTE.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.Build.Framework.dll
+D:\source code\Develop\Report\Report\bin\Debug\stdole.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\source code\Develop\Report\Report\bin\Debug\EnvDTE80.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\source code\Develop\Report\Report\bin\Debug\VSLangProj.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\VSLangProj80.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.MSXML.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\source code\Develop\Report\Report\bin\Debug\VSLangProj2.dll
+D:\source code\Develop\Report\Report\bin\Debug\EPPlus.xml
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\source code\Develop\Report\Report\bin\Debug\Newtonsoft.Json.xml
+D:\source code\Develop\Report\Report\bin\Debug\PdfSharp.xml
+D:\source code\Develop\Report\Report\bin\Debug\PdfSharp.Charting.xml
+D:\source code\Develop\Report\Report\bin\Debug\System.Buffers.xml
+D:\source code\Develop\Report\Report\bin\Debug\System.Memory.xml
+D:\source code\Develop\Report\Report\bin\Debug\System.Numerics.Vectors.xml
+D:\source code\Develop\Report\Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\source code\Develop\Report\Report\bin\Debug\zxing.xml
+D:\source code\Develop\Report\Report\bin\Debug\zxing.presentation.xml
+D:\source code\Develop\Report\Report\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\source code\Develop\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\PdfSharp.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\source code\Develop\Report\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+D:\source code\Develop\Report\Report\obj\Debug\Report.exe.config
+D:\source code\Develop\Report\Report\obj\Debug\Report.Form1.resources
+D:\source code\Develop\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\source code\Develop\Report\Report\obj\Debug\Report.csproj.GenerateResource.cache
+D:\source code\Develop\Report\Report\obj\Debug\RdlCompile.cache
+D:\source code\Develop\Report\Report\obj\Debug\RdlCompile.compiled
+D:\source code\Develop\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\source code\Develop\Report\Report\obj\Debug\Report.csproj.CopyComplete
+D:\source code\Develop\Report\Report\obj\Debug\Report.exe
+D:\source code\Develop\Report\Report\obj\Debug\Report.pdb
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report\rptPrintLabelFZ_Receive.rdlc
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report\rptPrintLabelTP.rdlc
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report\rptPrintLabel.rdlc
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report\rptPrintLabelselectic.rdlc
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report.exe.config
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report.exe
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report.pdb
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\EPPlus.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\EPPlus.Interfaces.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\EPPlus.System.Drawing.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Newtonsoft.Json.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\PdfSharp.Charting.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\PdfSharp.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Buffers.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Memory.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Numerics.Vectors.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zxing.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zxing.presentation.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\EnvDTE.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\stdole.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.MSXML.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\EPPlus.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Newtonsoft.Json.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\PdfSharp.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\PdfSharp.Charting.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Buffers.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Memory.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Numerics.Vectors.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zxing.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zxing.presentation.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\PdfSharp.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.Form1.resources
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.Properties.Resources.resources
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.csproj.GenerateResource.cache
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.exe
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.pdb
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\PdfiumViewer.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\PdfiumViewer.xml
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\x64\pdfium.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\x86\pdfium.dll
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.csproj.AssemblyReference.cache
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\RdlCompile.cache
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\RdlCompile.compiled
+D:\Rattapol Gitlab\rdlc_label\Report\Report\obj\Debug\Report.csproj.CopyComplete
+D:\Rattapol Gitlab\rdlc_label\Report\Report\bin\Debug\Report\Report1.rdlc

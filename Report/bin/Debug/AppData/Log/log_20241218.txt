@@ -1,0 +1,71 @@
+
+Log Entry : 11:00:57 Wednesday, December 18, 2024
+  :
+  :app start 2024-12-18 11:00:57
+-------------------------------
+
+Log Entry : 11:00:57 Wednesday, December 18, 2024
+  :
+  :args.Length == 4
+-------------------------------
+
+Log Entry : 11:00:57 Wednesday, December 18, 2024
+  :
+  :pathjson = C:\Users\RSannita\Desktop\test_label.json , pathRDLC =  , printName = IT01 , type = PDF
+-------------------------------
+
+Log Entry : 11:01:00 Wednesday, December 18, 2024
+  :
+  :app stop 2024-12-18 11:01:00
+-------------------------------
+
+Log Entry : 11:04:29 Wednesday, December 18, 2024
+  :
+  :app start 2024-12-18 11:04:29
+-------------------------------
+
+Log Entry : 11:04:29 Wednesday, December 18, 2024
+  :
+  :args.Length == 4
+-------------------------------
+
+Log Entry : 11:04:29 Wednesday, December 18, 2024
+  :
+  :pathjson = C:\Users\RSannita\Desktop\test_label.json , pathRDLC =  , printName = ssang01 , type = PDF
+-------------------------------
+
+Log Entry : 11:05:15 Wednesday, December 18, 2024
+  :
+  :app start 2024-12-18 11:05:15
+-------------------------------
+
+Log Entry : 11:05:15 Wednesday, December 18, 2024
+  :
+  :args.Length == 4
+-------------------------------
+
+Log Entry : 11:05:15 Wednesday, December 18, 2024
+  :
+  :pathjson = C:\Users\RSannita\Desktop\test_label.json , pathRDLC =  , printName = S_Sang01
+ , type = PDF
+-------------------------------
+
+Log Entry : 11:05:51 Wednesday, December 18, 2024
+  :
+  :app start 2024-12-18 11:05:51
+-------------------------------
+
+Log Entry : 11:05:51 Wednesday, December 18, 2024
+  :
+  :args.Length == 4
+-------------------------------
+
+Log Entry : 11:05:51 Wednesday, December 18, 2024
+  :
+  :pathjson = C:\Users\RSannita\Desktop\test_label.json , pathRDLC =  , printName = IT01 , type = PDF
+-------------------------------
+
+Log Entry : 11:05:53 Wednesday, December 18, 2024
+  :
+  :app stop 2024-12-18 11:05:53
+-------------------------------

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Report||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C5DF91-A0F2-441E-A9F2-8534D119D25D}|Report\\Report.csproj|d:\\rattapol gitlab\\rdlc_label\\report\\report\\repository\\printlabel_repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C5DF91-A0F2-441E-A9F2-8534D119D25D}|Report\\Report.csproj|solutionrelative:report\\repository\\printlabel_repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C5DF91-A0F2-441E-A9F2-8534D119D25D}|Report\\Report.csproj|D:\\Rattapol Gitlab\\rdlc_label\\Report\\report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C5DF91-A0F2-441E-A9F2-8534D119D25D}|Report\\Report.csproj|solutionrelative:report\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C5DF91-A0F2-441E-A9F2-8534D119D25D}|Report\\Report.csproj|d:\\rattapol gitlab\\rdlc_label\\report\\report\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report",
+              "DocumentMoniker": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\Report\\Report.csproj",
+              "RelativeDocumentMoniker": "Report\\Report.csproj",
+              "ToolTip": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\Report\\Report.csproj",
+              "RelativeToolTip": "Report\\Report.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-20T02:22:35.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintLabel_REPO.cs",
+              "DocumentMoniker": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\Report\\Repository\\PrintLabel_REPO.cs",
+              "RelativeDocumentMoniker": "Report\\Repository\\PrintLabel_REPO.cs",
+              "ToolTip": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\Report\\Repository\\PrintLabel_REPO.cs",
+              "RelativeToolTip": "Report\\Repository\\PrintLabel_REPO.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAcwLYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:33:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\Report\\Program.cs",
+              "RelativeDocumentMoniker": "Report\\Program.cs",
+              "ToolTip": "D:\\Rattapol Gitlab\\rdlc_label\\Report\\Report\\Program.cs",
+              "RelativeToolTip": "Report\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:33:34.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
